@@ -39,8 +39,18 @@
 </p>
 
 <p align="center">
-<img src="" width="400"/)
+<img src="https://github.com/treatysherrizah/CSE_BlockDiagramAlgebra_MEXE_3202_Group-6_2024/assets/157602175/4c63acc6-f2be-459b-8074-12bb4f671a8a" width="400"/)
 </p>
+
+
+<p align="center">
+<img src="https://github.com/treatysherrizah/CSE_BlockDiagramAlgebra_MEXE_3202_Group-6_2024/assets/157602175/f0f3286a-941d-4af4-8823-e8f43a35f950" width="400"/)
+</p>
+
+<p align="center">
+<img src="https://github.com/treatysherrizah/CSE_BlockDiagramAlgebra_MEXE_3202_Group-6_2024/assets/157602175/86a185f3-02a3-4e15-b330-857378560707" width="400"/)
+</p>
+
 
 
 
