@@ -34,5 +34,15 @@
 
 ## SOLUTION:
 
+<p align="center">
+<img src="https://github.com/treatysherrizah/CSE_BlockDiagramAlgebra_MEXE_3202_Group-6_2024/assets/157602175/0d1bc48d-e18a-4065-8126-a3bc561b7586" width="400"/)
+</p>
+
+<p align="center">
+<img src="" width="400"/)
+</p>
+
+
+
 
 
