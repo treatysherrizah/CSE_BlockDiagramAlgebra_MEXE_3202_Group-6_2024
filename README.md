@@ -9,9 +9,12 @@
 ### PQ: Treaty Sherrizah L. Blasco
 ### PR: Patrick James G. Verroya
 
+## GIVEN NO. 1
 <p align="center">
   <img src="https://github.com/treatysherrizah/CSE_BlockDiagramAlgebra_MEXE_3202_Group-6_2024/assets/157602175/1bdbaa2e-d571-4e9d-93bd-179121cfa8e7" width="700"/)
 </p>
+<img src="https://github.com/treatysherrizah/CSE_BlockDiagramAlgebra_MEXE_3202_Group-6_2024/assets/157602175/6ba19f3c-a903-4564-8a3c-87d4d391f9f8" width="300"/)
+
 
 
 
