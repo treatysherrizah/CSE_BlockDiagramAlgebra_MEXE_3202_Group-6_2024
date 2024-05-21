@@ -12,9 +12,6 @@
 <p align="center">
   <img src="https://github.com/treatysherrizah/CSE_BlockDiagramAlgebra_MEXE_3202_Group-6_2024/assets/157602175/1bdbaa2e-d571-4e9d-93bd-179121cfa8e7" width="700"/)
 </p>
-![image](https://github.com/treatysherrizah/CSE_BlockDiagramAlgebra_MEXE_3202_Group-6_2024/assets/157602175/81516f84-27ac-4ea1-83dc-afcd41bf5944)
-
-
 
 
 
