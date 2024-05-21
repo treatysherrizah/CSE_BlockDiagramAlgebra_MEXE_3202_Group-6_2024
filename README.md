@@ -51,7 +51,38 @@
 <img src="https://github.com/treatysherrizah/CSE_BlockDiagramAlgebra_MEXE_3202_Group-6_2024/assets/157602175/86a185f3-02a3-4e15-b330-857378560707" width="400"/)
 </p>
 
+<p align="center">
+<img src="https://github.com/treatysherrizah/CSE_BlockDiagramAlgebra_MEXE_3202_Group-6_2024/assets/157602175/70ef2072-bdde-4b20-9841-097c718a936e" width="400"/)
+</p>
 
+
+<p align="center">
+<img src="https://github.com/treatysherrizah/CSE_BlockDiagramAlgebra_MEXE_3202_Group-6_2024/assets/157602175/c6284198-5a83-4aff-9224-b7043d582f88" width="400"/)
+</p>
+
+<p align="center">
+<img src="https://github.com/treatysherrizah/CSE_BlockDiagramAlgebra_MEXE_3202_Group-6_2024/assets/157602175/fe190e69-8ead-4a56-b589-5d699cde1c02" width="400"/)
+</p>
+
+<p align="center">
+<img src="https://github.com/treatysherrizah/CSE_BlockDiagramAlgebra_MEXE_3202_Group-6_2024/assets/157602175/e3eb9202-52d8-4f5b-affb-3720e092b678" width="400"/)
+</p>
+
+
+<p align="center">
+<img src="https://github.com/treatysherrizah/CSE_BlockDiagramAlgebra_MEXE_3202_Group-6_2024/assets/157602175/520b8b85-0dff-45d0-b47d-8b6ee0884348" width="400"/)
+</p>
+
+
+<p align="center">
+<img src="https://github.com/treatysherrizah/CSE_BlockDiagramAlgebra_MEXE_3202_Group-6_2024/assets/157602175/55d9d02f-15d7-4672-abd5-7d5f22000b88" width="400"/)
+</p>
+
+
+
+<p align="center">
+<img src="https://github.com/treatysherrizah/CSE_BlockDiagramAlgebra_MEXE_3202_Group-6_2024/assets/157602175/c5d6c54d-8c16-4903-b47d-e2db29cdbc62" width="400"/)
+</p>
 
 
 
